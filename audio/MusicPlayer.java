@@ -43,13 +43,13 @@ public class MusicPlayer {
      * .
      */
     public void addFileMededelingen() {
-        files.add("../audio/Opname01.mp3");
-        files.add("../audio/Opname02.mp3");
-        files.add("../audio/Opname03.mp3");
-        files.add("../audio/Opname04.mp3");
-        files.add("../audio/Opname05.mp3");
-        files.add("../audio/Opname06.mp3");
-        files.add("../audio/DingDong.mp3");
+        files.add("../tweedekamer final/audio/Teksten/Opname01.mp3");
+        files.add("../tweedekamer final/audio/Teksten/Opname02.mp3");
+        files.add("../tweedekamer final/audio/Teksten/Opname03.mp3");
+        files.add("../tweedekamer final/audio/Teksten/Opname04.mp3");
+        files.add("../tweedekamer final/audio/Teksten/Opname05.mp3");
+        files.add("../tweedekamer final/audio/Teksten/Opname06.mp3");
+        files.add("../tweedekamer final/audio/Teksten/DingDong.mp3");
     }
 
 

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Motie
+comment1.params=soort
+comment1.target=java.lang.String\ nieuwMotie(Motie.Type)
+comment2.params=
+comment2.target=java.lang.String\ socialeMotie()
+comment3.params=
+comment3.target=java.lang.String\ liberaleMotie()
+comment4.params=
+comment4.target=java.lang.String\ landbouwMotie()
+comment5.params=
+comment5.target=java.lang.String\ wegenbouwMotie()
+numComments=6

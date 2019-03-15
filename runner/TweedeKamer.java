@@ -34,7 +34,7 @@ public class TweedeKamer {
             switch (input) {
                 case "0":
                     System.out.println("Graag tot een volgende keer.");
-                    speel.startPlaying("../audio/TotZiens.mp3");
+                    speel.startPlaying("../tweedekamer final/audio/Teksten/TotZiens.mp3");
                     loop = false;
                     break;
                 case "1":

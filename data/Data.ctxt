@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Data
+comment1.params=
+comment1.target=java.util.ArrayList\ getKamerleden()
+comment10.params=
+comment10.target=java.util.ArrayList\ getBriefjesRondbrenger()
+comment11.params=
+comment11.target=java.util.ArrayList\ getActieveCommissies()
+comment2.params=
+comment2.target=java.util.ArrayList\ getPersmuskieten()
+comment3.params=
+comment3.target=java.util.ArrayList\ getBode()
+comment4.params=
+comment4.target=java.util.ArrayList\ getCommissie()
+comment5.params=
+comment5.target=commissies.CommissieAlgemeen\ getRandomCommisssie()
+comment6.params=
+comment6.target=personen.Interviewer\ getRandomInterviewer()
+comment7.params=
+comment7.target=personen.TweedeKamerlid\ getRandomPoliticus()
+comment8.params=
+comment8.target=personen.Bode\ getRandomBode()
+comment9.params=
+comment9.target=java.util.ArrayList\ getPersonen()
+numComments=12

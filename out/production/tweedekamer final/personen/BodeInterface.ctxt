@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BodeInterface
+comment0.text=\r\n\ class\ BodeInterface\ -\ geef\ hier\ een\ beschrijving\ van\ deze\ class\r\n\r\n\ @author\ (jouw\ naam)\r\n\ @version\ (versie\ nummer\ of\ datum)\r\n
+comment1.params=
+comment1.target=void\ brengBriefjesRond()
+comment1.text=\r\n\ \r\n\r\n\ \r\n\ @\r\n
+comment2.params=
+comment2.target=void\ verzorgKoffie()
+comment3.params=
+comment3.target=java.lang.String\ getBeroep()
+comment4.params=
+comment4.target=java.lang.String\ getNaam()
+numComments=5

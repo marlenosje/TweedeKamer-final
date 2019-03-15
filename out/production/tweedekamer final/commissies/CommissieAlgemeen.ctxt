@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=CommissieAlgemeen
+comment0.text=\r\n\ class\ CommissieAlgemeen\ \r\n\ @author\ Paul\ Tonk\r\n\ @version\ feb\ 2019\r\n
+comment1.params=value
+comment1.target=void\ setNaamCommissie(java.lang.String)
+comment10.params=
+comment10.target=void\ printCommissieInfo()
+comment2.params=
+comment2.target=java.lang.String\ getNaamCommisie()
+comment3.params=value
+comment3.target=void\ setOprichtingsDatum(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getOprichtingsDatum()
+comment5.params=commissieleden
+comment5.target=void\ setCommissieLeden(java.util.ArrayList)
+comment6.params=
+comment6.target=java.util.ArrayList\ getCommissieLeden()
+comment7.params=value
+comment7.target=void\ setVoorzitter(personen.TweedeKamerlid)
+comment8.params=
+comment8.target=personen.Persoon\ getVoorzitter()
+comment9.params=
+comment9.target=void\ maakVoorzitterLeeg()
+numComments=11

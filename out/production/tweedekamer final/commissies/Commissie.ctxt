@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Commissie
+comment0.text=\r\n\ class\ Commissie\ \r\n\r\n\ @author\ Paul\ Tonk\r\n\ @version\ feb\ 2019\r\n
+comment1.params=
+comment1.target=void\ commisieVergadering()
+comment1.text=\r\n\ \ method\ vergaderen\r\n\r\n\ \r\n\ \r\n
+comment2.params=
+comment2.target=void\ commisieRapportSchrijven()
+comment2.text=\r\n\ \ method\ Rapport\ Schrijven\r\n\r\n\ \r\n\ \r\n
+numComments=3

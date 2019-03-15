@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=InterviewerInterface
+comment1.params=
+comment1.target=java.lang.String\ StelMoeilijkeVraag()
+comment2.params=omroep
+comment2.target=void\ setOmroep(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getOmroep()
+numComments=4

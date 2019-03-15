@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Politicus
+comment1.params=
+comment1.target=java.lang.String\ getpartij()
+comment2.params=value
+comment2.target=void\ setPartij(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ reageer()
+comment4.params=
+comment4.target=data.Motie\ schrijfMotie()
+comment5.params=doel
+comment5.target=java.lang.String\ definieerBudget(java.lang.String)
+numComments=6

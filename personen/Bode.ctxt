@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Bode
+comment0.text=\r\n\ class\ Bode\ -\ geef\ hier\ een\ beschrijving\ van\ deze\ class\r\n\r\n\ @author\ (jouw\ naam)\r\n\ @version\ (versie\ nummer\ of\ datum)\r\n
+comment1.params=
+comment1.target=Bode()
+comment1.text=\r\n\ Constructor\ voor\ objects\ van\ class\ Bode\r\n
+comment2.params=
+comment2.target=void\ brengBriefjesRond()
+comment2.text=\r\n\ Ga\ briefjes\ rondbrengen\r\n\r\n\ \r\n
+comment3.params=
+comment3.target=void\ verzorgKoffie()
+comment4.params=
+comment4.target=void\ kiesHoofdBedekking()
+comment4.text=\r\n\ Kies\ een\ hoofbedekking\ \r\n\r\n\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getHoofdBedekking()
+comment5.text=\r\n\ Haal\ de\ hoofdbedekking\ op.\ \r\n\r\n\ @return\:\ hoofbedekking\r\n
+comment6.params=
+comment6.target=java.lang.String\ getBeroep()
+numComments=7
