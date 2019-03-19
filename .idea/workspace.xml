@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71792d73-ba6f-4d3e-904b-8cab334995fa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/audio/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/audio/MusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runner/TweedeKamer.java" beforeDir="false" afterPath="$PROJECT_DIR$/runner/TweedeKamer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/Start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tweedekamer final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tweedekamer final/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tweedekamer final/META-INF/tweedekamer final.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tweedekamer final/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tweedekamer final/audio/Teksten/Opname01.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tweedekamer final/audio/Teksten/Opname01.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tweedekamer final/audio/Teksten/Opname03.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tweedekamer final/audio/Teksten/Opname03.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tweedekamer final/audio/Teksten/Opname04.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tweedekamer final/audio/Teksten/Opname04.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tweedekamer final/package.bluej" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,27 +24,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Start.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
                 <element signature="e#146#147#0" expanded="true" />
                 <element signature="e#200#201#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/audio/MusicPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="57" column="55" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,7 +74,6 @@
         <option value="$PROJECT_DIR$/StartTweedeKamer.java" />
         <option value="$PROJECT_DIR$/data/Data.ctxt" />
         <option value="$PROJECT_DIR$/data/Data.java" />
-        <option value="$PROJECT_DIR$/Start.java" />
         <option value="$PROJECT_DIR$/personen/Bode.java" />
         <option value="$PROJECT_DIR$/personen/Interviewer.java" />
         <option value="$PROJECT_DIR$/personen/Persoon.java" />
@@ -94,6 +87,7 @@
         <option value="$PROJECT_DIR$/commissies/SnelwegCommissie.java" />
         <option value="$PROJECT_DIR$/runner/TweedeKamer.java" />
         <option value="$PROJECT_DIR$/audio/MusicPlayer.java" />
+        <option value="$PROJECT_DIR$/Start.java" />
       </list>
     </option>
   </component>
@@ -115,39 +109,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="tweedekamer final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tweedekamer final" type="462c0819:PsiDirectoryNode" />
+              <item name="TweedeKamer-final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TweedeKamer-final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tweedekamer final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tweedekamer final" type="462c0819:PsiDirectoryNode" />
+              <item name="TweedeKamer-final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TweedeKamer-final" type="462c0819:PsiDirectoryNode" />
               <item name="audio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tweedekamer final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tweedekamer final" type="462c0819:PsiDirectoryNode" />
-              <item name="commissies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tweedekamer final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tweedekamer final" type="462c0819:PsiDirectoryNode" />
-              <item name="runner" type="462c0819:PsiDirectoryNode" />
+              <item name="TweedeKamer-final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552656080757" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HalloWereld" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553003097436" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -237,8 +225,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.1484375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.1484375" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.2671141" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -335,9 +324,7 @@
     <entry file="file://$PROJECT_DIR$/runner/TweedeKamer.ctxt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.TXT">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README.TXT" />
     <entry file="file://$PROJECT_DIR$/runner/TweedeKamer.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -355,13 +342,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.bluej">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/package.bluej" />
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="983">
@@ -499,18 +480,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Start.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/runner/TweedeKamer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -523,10 +492,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/audio/MusicPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
+        <state relative-caret-position="471">
           <caret line="57" column="55" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
           </folding>
         </state>
       </provider>

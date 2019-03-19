@@ -20,7 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Start.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="63">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -35,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/audio/MusicPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="597">
-              <caret line="57" column="55" lean-forward="true" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
+              <caret line="57" column="55" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -46,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runner/TweedeKamer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="36" column="56" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="67" />
+            <state relative-caret-position="483">
+              <caret line="36" column="56" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="67" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -115,6 +115,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,13 +143,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552656080757" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HalloWereld" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -501,7 +501,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Start.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="63">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -513,8 +513,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/runner/TweedeKamer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="36" column="56" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="67" />
+        <state relative-caret-position="483">
+          <caret line="36" column="56" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="67" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -524,7 +524,7 @@
     <entry file="file://$PROJECT_DIR$/audio/MusicPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="597">
-          <caret line="57" column="55" lean-forward="true" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
+          <caret line="57" column="55" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
