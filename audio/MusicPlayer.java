@@ -4,7 +4,7 @@
  */
 package audio;
 
-
+// let op dat je de paden goed zet!!
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;
 import java.io.InputStream;
