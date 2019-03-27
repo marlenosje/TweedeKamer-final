@@ -5,6 +5,8 @@
  */
 import runner.TweedeKamer;
 
+//laat het project maar starten
+
 public class Start {
     public static void main(String[] args) {
         TweedeKamer Tweede = new TweedeKamer();
